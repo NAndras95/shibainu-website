@@ -1,4 +1,4 @@
 Ez a repository egyben CSS gyakorlás és webszerverekre teszt html.
 
 
-[logo]: ./images/website-screenshot.png "Weboldal kinézet"
+[logo]: https://github.com/NAndras95/shibainu-website/blob/master/images/website-screenshot.png "Weboldal kinézet"
